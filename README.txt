@@ -1,3 +1,1 @@
-Lorran Xavier de Oliveira
-
-201903161622
+Sistema de cadastro e listagem de episódios de séries em Java - Em pausa
